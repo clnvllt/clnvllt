@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 - 🤖 I'm a MSc Student in Engineering
 - 🚀 I'm passionate about Deep Learning, Computer Vision, NLP and Audio Processing
