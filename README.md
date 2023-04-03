@@ -2,7 +2,6 @@
 
 - 🤖 I'm a MSc Student in Engineering
 - 🚀 I'm passionate about Deep Learning, Computer Vision, NLP and Audio Processing
-- 🎹 Outside the world of tech, I love music and cinema
 
 <!--
 **clnvllt/clnvllt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
